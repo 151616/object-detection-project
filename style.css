@@ -1,0 +1,71 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+background-size: cover;
+background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    border-style: ridge;
+    
+}
+#trophy-body{
+    background-size: cover;
+}
+.back{
+    left: 0px;
+    margin-left: 450px;
+    border-radius: 20px;
+margin-top: -2px;
+}
+#heading-title{
+    margin-left: 520px;
+}
+.object-heading{
+    font-size: 23px;
+    background-color: khaki;
+    border-radius: 20px;
+    color: midnightblue;
+    top: 0;
+    margin-top:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.copy-right-footer{
+    bottom: 0;
+    background-color: mintcream;
+    color:purple;
+    text-align: center;
+    border: ridge 5px lightblue;
+    margin-top: 87px;
+    font-size: 18px;
+    position: fixed;
+    width: 100%;
+}
+.main_buttons{
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px lightblue;
+}
+#trophies{
+    margin-top: 50px;
+}
+.copy-right-footer-trophy{
+    bottom: 0px;
+    background-color: mintcream;
+    color:purple;
+    text-align: center;
+    border: ridge 5px lightblue;
+    margin-top: 433px;
+    font-size: 18px;
+
+}
